@@ -1,6 +1,6 @@
 # Selam, ben Eren 👋
 
-🎮 Dijital Oyun Tasarımı öğrencisiyim. **Unity ve Unreal Engine** ile oyunlar ve mobil/arka uç uygulamalar geliştiriyorum.  
+🎮 Dijital Oyun Tasarımı öğrencisiyim. Unity ve Unreal Engine ile oyunlar geliştiriyor, aynı zamanda mobil uygulamalar ve yazılım projeleri üretiyorum. 
 Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum. ⚡
 
 ---
