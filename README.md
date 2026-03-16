@@ -7,7 +7,8 @@ Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum. ⚡
 
 ## 🧠 Hakkımda
 🎓 Doğuş Üniversitesi, Dijital Oyun Tasarımı 3. sınıf öğrencisiyim  
-👾 Doğuş Üniversitesi Dijital Oyun Tasarımı kulübü yönetim kadrosundayım ve aynı zamanda sosyal medya yöneticisiyim.
+👾 Doğuş Üniversitesi Dijital Oyun Tasarımı kulübü yönetim kadrosundayım ve aynı zamanda sosyal medya yöneticisiyim.                
+
 🎮 Oyun geliştirme, uygulama tasarımı ve kullanıcı deneyimi alanlarında çalışıyorum. 
 
 ## 🧩 Teknolojiler & Araçlar
