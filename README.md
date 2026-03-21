@@ -22,7 +22,7 @@ Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum. ⚡
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ### 🎨 Tasarım Araçları
-Projelerinde kullandığım tasarım araçları:
+Projelerimde kullandığım tasarım araçları:
 
 - **Figma** – UI/UX prototip ve arayüz tasarımı  
 - **Photoshop** – 2D grafik, texture ve konsept tasarım  
