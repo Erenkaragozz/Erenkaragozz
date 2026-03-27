@@ -25,10 +25,6 @@ Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum. ⚡
 ### 📱 Mobil Geliştirme
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🎮 Oyun Motorları
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
-
 ### 🎨 Tasarım Araçları
 Projelerimde kullandığım tasarım araçları:
 
