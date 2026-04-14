@@ -14,10 +14,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Erenkaragozz
-          outputs: dist/snake.svg
+          outputs: dist/github-snake.svg
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          name: snake
-          path: dist/snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
