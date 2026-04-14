@@ -2,22 +2,23 @@ name: Generate Snake
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Erenkaragozz
           outputs: |
-            github-snake.svg
+            dist/github-snake.svg
 
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: snake
+          path: dist/github-snake.svg
