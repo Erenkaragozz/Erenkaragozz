@@ -14,7 +14,7 @@ Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum.
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/Erenkaragozz/Erenkaragozz/blob/main/dist/github-snake.svg)
+![snake](https://github.com/Erenkaragozz/Erenkaragozz/blob/output/github-snake.svg)
 
 ## 🧩 Kullandığım Teknolojiler & Araçlar
 
