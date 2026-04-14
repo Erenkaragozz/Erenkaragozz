@@ -28,10 +28,6 @@ Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🎨 Tasarım Araçları
-- **Photoshop** – 2D grafik, texture ve konsept tasarım  
-- **Blender** – 3D modelleme ve sahne tasarımı  
-- **Aseprite** – Pixel art ve sprite çalışmaları  
-
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FA5C5C?style=for-the-badge&logo=aseprite&logoColor=white)
