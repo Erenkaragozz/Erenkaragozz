@@ -12,10 +12,6 @@ Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Erenkaragozz&theme=radical)
 
-## 🐍 Contribution Snake
-
-![snake](https://github.com/Erenkaragozz/Erenkaragozz/blob/output/github-snake.svg)
-
 ## 🧩 Kullandığım Teknolojiler & Araçlar
 
 ### 💻 Programlama Dilleri
