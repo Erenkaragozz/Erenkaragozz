@@ -14,9 +14,9 @@ Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum.
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Erenkaragozz&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nightoss&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erenkaragozz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightoss&layout=compact&theme=tokyonight)
 
 ---
 
