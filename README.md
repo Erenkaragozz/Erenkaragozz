@@ -3,22 +3,16 @@
 🎮 Dijital Oyun Tasarımı öğrencisiyim. Unity ve Unreal Engine ile oyunlar geliştiriyor, aynı zamanda mobil uygulamalar ve yazılım projeleri üretiyorum. 
 Yaratıcı fikirleri oynanabilir deneyimlere dönüştürmeyi seviyorum. 
 
----
-
 ## 🧠 Hakkımda
 🎓 Doğuş Üniversitesi, Dijital Oyun Tasarımı 3. sınıf ve aynı zamanda İstanbul Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim.  
 👾 Doğuş Üniversitesi Dijital Oyun Tasarımı kulübü yönetim kadrosundayım ve aynı zamanda sosyal medya yöneticisiyim.  
 🎮 Oyun geliştirme, uygulama tasarımı ve kullanıcı deneyimi alanlarında çalışıyorum.  
 
----
-
 ## 📊 GitHub İstatistiklerim
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Erenkaragozz&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Erenkaragozz&theme=radical)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Erenkaragozz&layout=compact&theme=radical)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erenkaragozz&layout=compact)
 
 ## 🧩 Kullandığım Teknolojiler & Araçlar
 
